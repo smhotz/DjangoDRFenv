@@ -1,6 +1,6 @@
 # Django DRF Virtual Environment
 
-This is a container directory for the virtual python environment used for the Albert interview coding/API study.
+This is a container directory for the virtual python environment used for the XYZco interview coding/API study.
 
 ## Table of Contents
 
