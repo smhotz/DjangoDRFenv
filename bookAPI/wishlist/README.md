@@ -8,7 +8,7 @@ It presents two types of URL endpoints:
    * list all function (GET)
    * create new (POST)
    
-1. /<id> -- single object specification
+1. /id -- single object specification
    * single item (GET)
    * item remove (DELETE)
 
