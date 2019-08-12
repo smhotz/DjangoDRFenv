@@ -1,6 +1,6 @@
 # Django DRF Virtual Environment
 
-This is a directory for the django project bookAPI which was developed as an interview project for Albert.com
+This is a directory for the django project bookAPI which was developed as an interview project for XYZco
 
 For installation and operation, see README.md in parent directory.
 
