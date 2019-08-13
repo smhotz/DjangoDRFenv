@@ -2,11 +2,12 @@
 
 This app supports a Django DRY API for a simple global wishlist.
 
-It presents two types of URL endpoints:
+It presents two URL endpoints:
 
 1. / -- "root" URL
    * list all function (GET)
    * create new (POST)
+     post fields: name:str255, bid:str255
    
 1. /id -- single object specification
    * single item (GET)
